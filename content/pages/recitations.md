@@ -121,7 +121,7 @@ No Recitation Notes
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Markov Chain Monte Carlo Methods, Particle Filters (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_438f14_rec11)
+[Markov Chain Monte Carlo Methods, Particle Filters (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_438f14_rec11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,13 +130,13 @@ No Recitation Notes
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[EM Algorithm (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_438f14_rec12)
+[EM Algorithm (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_438f14_rec12)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
- ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Toy Example for EM algorithm (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_438f14_toy_example)
+ [Toy Example for EM algorithm (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_438f14_toy_example)
 {{< tdclose >}}
 
 {{< trclose >}}
