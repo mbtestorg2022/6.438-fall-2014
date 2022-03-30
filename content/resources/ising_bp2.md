@@ -4,6 +4,7 @@ description: "This resource contains the information related to Images for Probl
   \ 6.4.\r\n"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-438-algorithms-for-inference-fall-2014/c0326ac2f4168f078c606a8c8a0e8562_ising_bp2.m
 file_type: text/x-objcsrc
+parent_uid: e4e26ff3-b747-5512-2af9-c34cec428488
 resourcetype: Other
 title: ising_bp2.m
 uid: c0326ac2-f416-8f07-8c60-6a8c8a0e8562
